@@ -1,0 +1,19 @@
+{
+  "name": "Aarogya Drishti | ITDA Paderu Oral Cancer AI & Telemedicine",
+  "short_name": "AarogyaDrishti",
+  "description": "Offline-First AI-Assisted Oral Cancer Early Detection & Telemedicine Platform for Alluri Sitharama Raju District",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0d9488",
+  "orientation": "any",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2966/2966327.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
